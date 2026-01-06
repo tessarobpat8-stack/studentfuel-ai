@@ -1,0 +1,5 @@
+{
+  "name": "StudentFuel AI",
+  "description": "A constraint-aware meal planning and food optimization AI designed for college students, prioritizing energy, focus, and affordability.",
+  "requestFramePermissions": []
+}
